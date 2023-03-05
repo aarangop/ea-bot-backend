@@ -8,6 +8,9 @@ authors = ["Andrés Arango Pérez <andresap@protonmail.com>"]
 python = "^3.9"
 Django = "^4.1.7"
 djangorestframework = "^3.14.0"
+django-storages = "^1.13.2"
+google-api-python-client = "^2.80.0"
+google-cloud-storage = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 
